@@ -1,6 +1,6 @@
 [project]
 name = "brb-comfyui-quick-save-button"
-version = "0.0.0"
+version = "1.0.0"
 description = "Adds a Save button to ComfyUI's top menu bar that turns green when there are unsaved changes."
 license = { file = "LICENSE" }
 
